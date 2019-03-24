@@ -8,6 +8,8 @@ public class JavaIntro {
 		System.out.print(8848);
 		System.out.print("公尺");
 		//這是註解唷
+		//log 
+		
 	}
 
 	
