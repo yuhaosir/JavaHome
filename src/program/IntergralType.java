@@ -15,7 +15,7 @@ public class IntergralType {
 	      System.out.println(num3);
 	      System.out.println(num4);
 	      System.out.println(num5);
-			
+	      //System.out.println();
 			
 			
 		
