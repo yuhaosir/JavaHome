@@ -7,6 +7,7 @@ public class JavaIntro {
 		System.out.println("聖母峰有多高?");
 		System.out.print(8848);
 		System.out.print("公尺");
+		//這是註解唷
 	}
 
 	
